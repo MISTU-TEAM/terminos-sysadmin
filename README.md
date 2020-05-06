@@ -1,6 +1,7 @@
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/48721794/78295480-834b9180-752c-11ea-946d-2b890ad6adf3.png" alt="FULL PING logo" width="72" height="72">
+   <!--<img src="https://user-images.githubusercontent.com/48721794/78295480-834b9180-752c-11ea-946d-2b890ad6adf3.png" alt="FULL PING logo" width="72" height="72">-->
+   <img src="https://user-images.githubusercontent.com/48721794/81127936-1454c480-8f40-11ea-825c-93b0c6fb8582.png" alt="FULL PING logo">
 </p>
 <br>
 
@@ -50,7 +51,7 @@ Visita esta [pagina](https://www.cloudflare.com/ssl/encrypted-sni/) y comprueba 
 - <u>Modo Activo:</u> En este modo de funcionamiento el servidor FTP crea el canal de datos en el puerto TCP 20, mientras que en el lado del cliente se elige un puerto aleatorio superior al puerto TCP 1024. Esto es inseguro ya que abre un puerto aleatorio, este modo no se usa actualmente.
 - <u>Modo Pasivo:</u> en este modo se hace a través del puerto 21 de control, el servidor FTP le dice al cliente FTP a qué puerto externo debe conectarse para transferir la información. De esta forma, el cliente establecerá una conexión desde el puerto que le haya indicado.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tipos:** (Se más seguro a menos)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tipos:** (De más seguro a menos)
 
 - <u>SFTP:</u> Es un mètodo que usa SSH para connectarse al servidor FTP mediante SSH. Pero esto no encripta ----
 - <u>FTPS:</u> Antes de intercambiar ninguna información con el servidor FTP, se realiza una negociación TLS/SSL para asegurar todo el canal de comunicación, por tanto, la autenticación y la transferencia de archivos está asegurada con TLS.
