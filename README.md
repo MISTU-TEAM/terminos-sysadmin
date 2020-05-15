@@ -5,6 +5,29 @@
 </p>
 <br>
 
+## INDICE
+Firewall
+
+DNS
+
+Protocolos
+
+<br>
+<hr>
+<br>
+
+# Firewall
+
+El **Firewall** establece una barrera entre las redes internas seguras, controladas y fiables y las redes externas poco fiables como Internet, según sus reglas establecidas.
+> Recursos Firewall:
+> [Vídeo](https://www.youtube.com/watch?v=kDEX1HXybrU), [web](https://www.cisco.com/c/es_es/products/security/firewalls/what-is-a-firewall.html)
+
+**Firewall proxy:** 
+
+<br>
+<hr>
+<br>
+
 # DNS:
 
 **DNS** (Domain Name System)**:** Es un tipo de servidor que traduce una dirección IP a una serie de caracteres faciles de recordar, y a la inversa. Para ello utiliza la Base de datos que almacena el dominio, y la dirección IP a la que se asocia.
