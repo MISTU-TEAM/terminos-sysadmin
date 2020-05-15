@@ -1,7 +1,7 @@
 
 <p align="center">
    <!--<img src="https://user-images.githubusercontent.com/48721794/78295480-834b9180-752c-11ea-946d-2b890ad6adf3.png" alt="FULL PING logo" width="72" height="72">-->
-   <img src="https://user-images.githubusercontent.com/48721794/81127936-1454c480-8f40-11ea-825c-93b0c6fb8582.png" alt="FULL PING logo">
+   <img src="https://user-images.githubusercontent.com/48721794/81127936-1454c480-8f40-11ea-825c-93b0c6fb8582.png">
 </p>
 <br>
 
@@ -16,6 +16,17 @@ Protocolos
 <hr>
 <br>
 
+# Firewall
+
+El **Firewall** establece una barrera entre las redes internas seguras, controladas y fiables y las redes externas poco fiables como Internet, según sus reglas establecidas.
+> Recursos Firewall:
+> [Vídeo](https://www.youtube.com/watch?v=kDEX1HXybrU), [web](https://www.cisco.com/c/es_es/products/security/firewalls/what-is-a-firewall.html)
+
+**Firewall proxy:** 
+
+<br>
+<hr>
+<br>
 
 # DNS:
 
