@@ -5,7 +5,7 @@
 </p>
 <br>
 
-## INDICE
+# INDICE
 Firewall
 
 DNS
@@ -16,17 +16,6 @@ Protocolos
 <hr>
 <br>
 
-# Firewall
-
-El **Firewall** establece una barrera entre las redes internas seguras, controladas y fiables y las redes externas poco fiables como Internet, según sus reglas establecidas.
-> Recursos Firewall:
-> [Vídeo](https://www.youtube.com/watch?v=kDEX1HXybrU), [web](https://www.cisco.com/c/es_es/products/security/firewalls/what-is-a-firewall.html)
-
-**Firewall proxy:** 
-
-<br>
-<hr>
-<br>
 
 # DNS:
 
