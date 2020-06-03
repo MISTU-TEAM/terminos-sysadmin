@@ -1,19 +1,20 @@
 
+
 <p align="center">
    <!--<img src="https://user-images.githubusercontent.com/48721794/78295480-834b9180-752c-11ea-946d-2b890ad6adf3.png" alt="FULL PING logo" width="72" height="72">-->
    <img src="https://user-images.githubusercontent.com/48721794/81127936-1454c480-8f40-11ea-825c-93b0c6fb8582.png">
 </p>
 <br>
 
-# INDICE
-Firewall
-
-DNS
-
-Protocolos
+<div align="center">
+   <h1>Indice</h1>
+   <h3><a href="https://github.com/MISTU-TEAM/terminos-sysadmin#firewall">Firewall</a></h3>
+   <h3><a href="https://github.com/MISTU-TEAM/terminos-sysadmin#dns">DNS</a></h3>
+   <h3><a href="https://github.com/MISTU-TEAM/terminos-sysadmin#protocolos">Protocolos</a></h3>
+</div>
 
 <br>
-<hr>
+<br>
 <br>
 
 # Firewall
@@ -22,7 +23,19 @@ El **Firewall** establece una barrera entre las redes internas seguras, controla
 > Recursos Firewall:
 > [Vídeo](https://www.youtube.com/watch?v=kDEX1HXybrU), [web](https://www.cisco.com/c/es_es/products/security/firewalls/what-is-a-firewall.html)
 
-**Firewall proxy:** 
+**Firewall de próxima generación:** Los Firewalls convencionales trastrea los dominios que proviene el tráfico, pero este tipo de Firewall supervisa el contenido del mensaje en busca de malware y la filtración de datos
+
+**Firewall proxy:** Se trata de un dispositivo que filtra paquetes provenientes de redes exteriores, y posteriormente lo envia al servidor Proxy, para restringir con sus propias reglas.
+> Recursos Firewall proxy:
+> [Diagrama](https://www.computertechreviews.com/wp-content/uploads/2019/12/New-Project-14.jpg)
+
+**Packet Filtering Firewall:** Los firewalls de filtrado de paquetes operan en la Capa 3 "Networking" (IP, ARP, IPsec, ICMP,...) del modelo OSI. Los firewalls de filtrado de paquetes toman decisiones de procesamiento basadas en direcciones de red, puertos o protocolos. No son seguros.
+> Recursos Packet Filtering Firewall:
+> [Diagrama](https://etutorials.org/shared/images/tutorials/tutorial_102/bssl_0205.gif), [web](https://www.sciencedirect.com/topics/computer-science/packet-filtering-firewall)
+
+**SMLI** (Stateful Multilayer Inspection Firewall)**:** Almacena los atributos (IP, puerto,...) de cada conexión entrante en una base de datos llamado "stateful database", i en la que establece una sessión abierta. Cada paquete que se envia y recibe de esa sessión se comprueba que este registrada en la base de datos, y las reglas que se han configurado.
+> Recursos SML:
+> [Diagrama](https://www.researchgate.net/profile/Baha_Rababah/publication/324546844/figure/fig1/AS:616176103211009@1523919239568/Proxy-filtering-3-Stateful-Inspection-Firewall-A-Stateful-inspection-packet-creates-a.png), [web](https://es.wikipedia.org/wiki/Cortafuegos_stateful)
 
 <br>
 <hr>
@@ -81,4 +94,3 @@ Visita esta [pagina](https://www.cloudflare.com/ssl/encrypted-sni/) y comprueba 
 - <u>FTPES:</u> El cliente FTPS debe pedir explícitamente seguridad en el servidor, y luego pasar a un método de cifrado compatible por ambos. La diferencia principal es que FTPES negocia la comunicación encriptada, en cambio FTPS no.
 
 > Recursos FTP: [Cliente FTP](https://www.smartftp.com/es-es/), [Servidor FTP](https://www.wftpserver.com)
-
