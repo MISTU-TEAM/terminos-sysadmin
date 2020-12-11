@@ -8,9 +8,9 @@
 
 <div align="center">
    <h1>Indice</h1>
-   <h3><a href="https://github.com/MISTU-TEAM/terminos-sysadmin#firewall">Firewall</a></h3>
-   <h3><a href="https://github.com/MISTU-TEAM/terminos-sysadmin#dns">DNS</a></h3>
-   <h3><a href="https://github.com/MISTU-TEAM/terminos-sysadmin#protocolos">Protocolos</a></h3>
+   <h3><a href="https://github.com/MISTU-TEAM/terminos-sysadmin#firewall-1">Firewall</a></h3>
+   <h3><a href="https://github.com/MISTU-TEAM/terminos-sysadmin#dns-1">DNS</a></h3>
+   <h3><a href="https://github.com/MISTU-TEAM/terminos-sysadmin#dns-1">Protocolos</a></h3>
 </div>
 
 <br>
@@ -63,6 +63,12 @@ El **Firewall** establece una barrera entre las redes internas seguras, controla
 > Recursos DNSSEC:
 > [Vídeo](https://www.youtube.com/watch?v=MrtsKTC3KDM), [diagrama](https://www.incibe.es/sites/default/files/contenidos/blog/20190604_dnssec/dnssec.jpg), 
 [web](https://www.dominios.es/dominios/sites/dominios/files/1318333648229_0.pdf)
+
+**ODoH** (Oblivious DNS over HTTPS)**:** Interviene un proxy entre las solicitudes del cliente y el proveedor de DNS, consigiendo que la IP del cliente quede oculta ante el proveedor de DNS. Oblivious DNS over HTTPS, garantiza la encriptación entre la comunicación del proveedor de DNS y el servidor proxy.
+
+> Recursos ODoH:
+> [diagrama](https://blog.cloudflare.com/content/images/2020/12/image6-2.png), 
+[web](https://blog.cloudflare.com/oblivious-dns/)
 
 
 ## Como puedo ver si tengo: DoH, DoT, DNS, DNSSEC?
