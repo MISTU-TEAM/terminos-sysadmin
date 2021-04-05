@@ -8,9 +8,9 @@
 
 <div align="center">
    <h1>Indice</h1>
-   <h3><a href="Basico/Basico.md#firewall-1">Firewall</a></h3>
-   <h3><a href="Basico/Basico.md#dns-1">DNS</a></h3>
-   <h3><a href="Basico/Basico.md#protocolos%de%comunicacion-1">Protocolos de comunicación</a></h3>
+   <h3><a href="Basico.md#firewall-1">Firewall</a></h3>
+   <h3><a href="Basico.md#dns-1">DNS</a></h3>
+   <h3><a href="Basico.md#protocolos%de%comunicacion-1">Protocolos de comunicación</a></h3>
 </div>
 
 <br>
