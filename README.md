@@ -17,7 +17,7 @@ Le recomiendo ver el contenido en la [versión web](https://massin-laaouaj.gitbo
 
 <br>
 
-> [Conceptos bàsicos](basico/basico.md)
-> - [Firewall](terminos-sysadmin/blob/master/Basico/Basico.md#firewall-1)
-> - [DNS](basico/basico#dns-1)
-> - [Protocolos de comunicación](basico/basico#protocolos%de%comunicación-1)
+> [Conceptos bàsicos](Basico/Basico.md)
+> - [Firewall](Basico/Basico.md#firewall-1)
+> - [DNS](Basico/Basico.md#dns-1)
+> - [Protocolos de comunicación](Basico/Basico.md#protocolos%de%comunicacion-1)
