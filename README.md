@@ -18,6 +18,6 @@ Le recomiendo ver el contenido en la [versión web](https://massin-laaouaj.gitbo
 <br>
 
 > [Conceptos bàsicos](basico/basico.md)
-> - [Firewall](basico/basico#firewall-1)
+> - [Firewall](terminos-sysadmin/blob/master/Basico/Basico.md#firewall-1)
 > - [DNS](basico/basico#dns-1)
 > - [Protocolos de comunicación](basico/basico#protocolos%de%comunicación-1)
